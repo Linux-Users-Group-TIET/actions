@@ -1,2 +1,2 @@
 # actions
-Monorepo containing GitHub Actions
+Monorepository containing GitHub Actions
