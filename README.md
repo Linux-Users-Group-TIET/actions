@@ -1,2 +1,2 @@
 # actions
-Monorepository containing GitHub Actions
+Repository containing our most used GitHub Actions
